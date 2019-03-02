@@ -59,6 +59,12 @@ math = false
 [image]
   # Caption (optional)
   caption = ""
+  
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "thesis.png"
+caption = "Grand average at electrode site FCz to positive and negative feedback in adults and children."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
