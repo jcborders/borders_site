@@ -45,11 +45,11 @@ tags = ["FEES", "Pharyngeal Residue", "Psychometrics"]
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/James_Borders/publication/330714666_Relationship_Between_Laryngeal_Sensation_Length_of_Intubation_and_Aspiration_in_Patients_with_Acute_Respiratory_Failure/links/5c570e7e92851c22a3a6617f/Relationship-Between-Laryngeal-Sensation-Length-of-Intubation-and-Aspiration-in-Patients-with-Acute-Respiratory-Failure.pdf"
+url_pdf = `rely.pdf`
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Online Article", url = "https://link.springer.com/article/10.1007/s00455-019-09980-1"}]
+#links = [{name = "Online Article", url = #"https://link.springer.com/article/10.1007/s00455-019-09980-1"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -58,7 +58,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "A view of my larynx during a Flexible Endoscopic Evaluation of Swallowing (FEES). Laryngeal sensation was judged by touching the arytenoids with the endoscope, and assessing the presence or absence of the laryngeal adductor reflex."
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

@@ -49,7 +49,7 @@ url_pdf = "https://www.researchgate.net/profile/James_Borders/publication/330714
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Online Article", url = "https://link.springer.com/article/10.1007/s00455-019-09980-1"}]
+#links = [{name = "Online Article", url = #"https://link.springer.com/article/10.1007/s00455-019-09980-1"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
