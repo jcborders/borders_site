@@ -37,7 +37,13 @@ weight = 100
   icon = "book-reader"
   icon_pack = "fas"
   name = "Research Consumer"
-  description = "80%"  
+  description = "75%"  
+  
+[[feature]]
+  icon = "basketball-ball"
+  icon_pack = "fas"
+  name = "Balla"
+  description = "90%"    
   
 [[feature]]
   icon = "beer"
