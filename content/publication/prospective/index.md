@@ -73,8 +73,8 @@ math = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "dysarthria.png"
-caption = "Incidence and co-occurrence of dysarthria, dysphagia, and aphasia compared to a prior retrospective study (Flowers et al., 2013)."
+image = ""
+#caption = "Incidence and co-occurrence of dysarthria, dysphagia, and aphasia compared to a prior retrospective study (Flowers et al., 2013)."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
