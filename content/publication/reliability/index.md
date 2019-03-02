@@ -1,5 +1,5 @@
 +++
-title = "Reliability of untrained and experienced raters on FEES: rating overall residue is a simple task"
+title = "Reliability of Untrained and Experienced Raters on FEES: Rating Overall Residue is a Simple Task"
 date = 2018-10-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

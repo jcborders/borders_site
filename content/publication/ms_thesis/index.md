@@ -1,5 +1,5 @@
 +++
-title = "A developmental examination of feedback processing during declarative learning"
+title = "A Developmental Examination of Feedback Processing During Declarative Learning"
 date = 2016-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
