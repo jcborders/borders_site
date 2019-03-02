@@ -7,7 +7,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 100
 
 # Showcase personal skills or business features.
 # 
@@ -19,18 +19,30 @@ weight = 30
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "10%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "25%"    
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Data Visualization"
+  description = "40%"  
+  
+[[feature]]
+  icon = "book-reader"
+  icon_pack = "fas"
+  name = "Research Consumer"
+  description = "80%"  
+  
+[[feature]]
+  icon = "beer"
+  icon_pack = "fas"
+  name = "Craft Beer Enthusiast"
   description = "10%"
 
 +++
