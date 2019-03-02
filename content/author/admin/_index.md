@@ -16,7 +16,7 @@ role = "Speech Pathologist, Clinical Researcher"
 organizations = [ { name = "Boston Medical Center", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "James Borders is a speech pathologist specializing in swallowing and voice disorders. He has experience in assisting with large-scale NIH and PCORI funded research."
+bio = "James Borders is a speech pathologist specializing in swallowing and voice disorders."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -88,4 +88,4 @@ user_groups = []
 
 +++
 
-James Borders is a speech pathologist specializing in swallowing disorders. 
+James Borders is a speech pathologist specializing in swallowing disorders. He has experience assisting with large-scale NIH funded research. 
