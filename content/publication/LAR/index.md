@@ -58,10 +58,10 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "A view of my larynx during a Flexible Endoscopic Evaluation of Swallowing (FEES). Laryngeal sensation was judged by touching the arytenoids with the endoscope, and assessing the presence or absence of the laryngeal adductor reflex."
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Bottom"
+  focal_point = ""
 +++
 
