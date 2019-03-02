@@ -45,7 +45,7 @@ tags = ["Feedback Processing", "Event-Related Potentials"]
 projects = []
 
 # Links (optional).
-url_pdf = `thesis.pdf`
+url_pdf = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
