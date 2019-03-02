@@ -45,7 +45,7 @@ tags = ["FEES", "Pharyngeal Residue", "Psychometrics"]
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "`rely.pdf`"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
