@@ -49,6 +49,6 @@ weight = 100
   icon = "beer"
   icon_pack = "fas"
   name = "Craft Beer Enthusiast"
-  description = "10%"
+  description = "100%"
 
 +++
