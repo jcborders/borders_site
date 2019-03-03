@@ -88,4 +88,4 @@ user_groups = []
 
 +++
 
-James Borders is a speech pathologist specializing in swallowing disorders. He has experience assisting with large-scale NIH funded research. 
+James Borders is a speech pathologist specializing in swallowing and voice disorders. He currently works in both inpatient and outpatient roles at Boston Medical Center, and participate in research aimed at improving outcomes for patients with swallowing and voice disorders. 
