@@ -16,39 +16,33 @@ weight = 100
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "10%"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "25%"    
+  description = ""    
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "40%"  
+  description = ""  
   
 [[feature]]
-  icon = "book-reader"
+  icon = "radiation-alt"
   icon_pack = "fas"
-  name = "Research Consumer"
-  description = "75%"  
-  
+  name = "Videofluoroscopic Swallow Studies"
+  description = ""  
+
 [[feature]]
-  icon = "basketball-ball"
+  icon = "microscope"
   icon_pack = "fas"
-  name = "Balla"
-  description = "90%"    
+  name = "Fiberoptic Endoscopic Evaluations of Swallowing"
+  description = ""  
   
 [[feature]]
   icon = "beer"
   icon_pack = "fas"
   name = "Craft Beer Enthusiast"
-  description = "100%"
+  description = ""
 
 +++
