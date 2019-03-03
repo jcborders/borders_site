@@ -45,3 +45,5 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
 +++
 
 Malnutrition and weight loss are prevalent in persons with dementia and associated with poor functional outcomes. There is emerging evidence that mealtime interventions can improve behavioral and psychosocial symptoms, as well as nutritional outcomes. However, many prior reviews focus only on one aspect of mealtime interventions, such as challenging behaviors, exclude certain types of nutritional outcomes (e.g., blood assays), or have been overly inclusive by allowing for mixed cohorts of geriatric patients (with and without dementia). To address this gap, we performed a systematic review designed to identify, synthesize, and critically appraise existing evidence surrounding the efficacy of mealtime interventions to improve nutritional outcomes in persons with dementia. 
+
+**Current Status:** Manuscript In Preparation
