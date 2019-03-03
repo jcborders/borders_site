@@ -34,7 +34,7 @@ weight = 100
   description = ""  
 
 [[feature]]
-  icon = "microscope"
+  icon = "hospital"
   icon_pack = "fas"
   name = "Fiberoptic Endoscopic Evaluations of Swallowing"
   description = ""  
