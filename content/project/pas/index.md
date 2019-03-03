@@ -37,7 +37,7 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Getty Images"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -46,4 +46,4 @@ links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitt
 
 The penetration-aspiration scale (PAS) is an 8-point scale used to characterize the depth of airway invasion during videofluoroscopy (Rosenbek et al., 1996). Though widely used and considered an industry-standard in the field of deglutition, statistical treatment of the PAS is not uniform across studies. In a recent perspectives article, Steele and Grace-Martin (2017) discussed common statistical errors and offered a categorical, physiology-based version of the PAS for use in research. To guide education and implementation of valid and standardized PAS analysis, there is a need to first understand how the PAS is currently used. In order to examine trends in the statistical use of the PAS since its inception, we performed a historical, systematic review of the use of the penetration-aspiration scale. We also assessed differences and variations in categorization methods, as well as geography. 
 
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXxr3gsubgAhVDiOAKHQmICyIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgifs%2Fcomments%2F12h173%2Fxray_of_someone_taking_a_drink%2F&psig=AOvVaw0ZyoMa1ro4mFFNfm6wtwjP&ust=1551717088576694)
+![](https://media.giphy.com/media/U7LqpyMWtoeSXayium/giphy.gif)
