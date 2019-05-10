@@ -16,17 +16,17 @@ role = "PhD Student"
 organizations = [ { name = "Boston Medical Center", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "James Borders is a speech pathologist specializing in swallowing and voice disorders."
+bio = "James Borders is a doctoral student and clinically trained speech pathologist specializing in swallowing and cough dysfunction."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Oropharyngeal Dysphagia",
-  "Critical Illness",
-  "Open Science",
-  "RStats"
+  "Normal and abnormal swallowing physiology",
+  "Laryngeal sensory deficits",
+  "Neuromuscular rehabilitation of cough and swallowing function",
+  "Open science"
 ]
 
 # Organizational groups that you belong to (for People widget)
