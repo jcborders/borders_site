@@ -67,6 +67,15 @@
     
     <url>
     
+      <loc>/authors/jc-borders/</loc>
+      <lastmod>2018-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
       <lastmod>2019-02-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -148,7 +157,7 @@
     <url>
     
       <loc>/authors/</loc>
-      <lastmod>2017-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

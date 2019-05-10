@@ -3,7 +3,7 @@ title = "Reliability of Untrained and Experienced Raters on FEES: Rating Overall
 date = 2018-10-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JM Pisegna", "JC Borders", "A Kaneoka", "WJ Coster", "R Leonard", "SE Langmore"]
+authors = ["JM Pisegna", "**JC Borders**", "A Kaneoka", "WJ Coster", "R Leonard", "SE Langmore"]
 
 # Publication type.
 # Legend:
