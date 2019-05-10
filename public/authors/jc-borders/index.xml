@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JC Borders on James Borders</title>
+    <title>**JC Borders** on James Borders</title>
     <link>/authors/jc-borders/</link>
-    <description>Recent content in JC Borders on James Borders</description>
+    <description>Recent content in **JC Borders** on James Borders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
@@ -27,6 +27,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>/publication/prospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability of Untrained and Experienced Raters on FEES: Rating Overall Residue is a Simple Task</title>
+      <link>/publication/reliability/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/reliability/</guid>
       <description></description>
     </item>
     

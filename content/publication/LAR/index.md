@@ -3,7 +3,7 @@ title = "Relationship Between Laryngeal Sensation, Length of Intubation, and Asp
 date = 2019-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JC Borders", "D Fink", "JE Levitt", "J McKeehan", "E McNally", "A Rubio", "R Scheel", "JM Siner", "SG Taborda", "R Vojnik", "H Warner", "SD White", "SE Langmore", "M Moss", "GP Krisciunas"]
+authors = ["**JC Borders**", "D Fink", "JE Levitt", "J McKeehan", "E McNally", "A Rubio", "R Scheel", "JM Siner", "SG Taborda", "R Vojnik", "H Warner", "SD White", "SE Langmore", "M Moss", "GP Krisciunas"]
 
 # Publication type.
 # Legend:

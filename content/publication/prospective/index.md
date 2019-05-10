@@ -3,7 +3,7 @@ title = "Prospective Investigation of Incidence and Co-occurrence of Dysphagia, 
 date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["KL Stipancic", "JC Borders", "D Brates", "SL Thibeault"]
+authors = ["KL Stipancic", "**JC Borders**", "D Brates", "SL Thibeault"]
 
 # Publication type.
 # Legend:

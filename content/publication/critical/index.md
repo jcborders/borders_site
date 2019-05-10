@@ -3,7 +3,7 @@ title = "Predictors of Dysphagia in Critically Injured Patients with Neck Trauma
 date = 2017-12-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JC Borders", "AL Gibson", "A Grayev", "SL Thibeault"]
+authors = ["**JC Borders**", "AL Gibson", "A Grayev", "SL Thibeault"]
 
 # Publication type.
 # Legend:
