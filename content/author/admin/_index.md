@@ -13,10 +13,10 @@ role = "PhD Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Boston Medical Center", url = "" } ]
+organizations = [ { name = "Columbia University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "James Borders is a doctoral student and clinically trained speech pathologist specializing in swallowing and cough dysfunction."
+bio = "James Borders is a doctoral student in the Laboratory for the Study of Upper Airway Dysfunction at Teacher's College under the mentorship of Michelle Troche. James is a clinically trained speech pathologist specializing in swallowing and cough dysfunction and rehabilitation."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -36,7 +36,7 @@ user_groups = []
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD, Communication Sciences and Disorders"
-  institution = "Columbia University"
+  institution = "Teacher's College, Columbia University"
   year = 2023
 
 [[education.courses]]
