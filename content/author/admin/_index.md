@@ -35,7 +35,12 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MS in Communication Sciences and Disorders"
+  course = "PhD, Communication Sciences and Disorders"
+  institution = "Columbia University"
+  year = 2023
+
+[[education.courses]]
+  course = "MS, Communication Sciences and Disorders"
   institution = "MGH - Institute of Health Professions"
   year = 2016
 
