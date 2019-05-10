@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E McNally on James Borders</title>
+    <link>/authors/e-mcnally/</link>
+    <description>Recent content in E McNally on James Borders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/e-mcnally/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relationship Between Laryngeal Sensation, Length of Intubation, and Aspiration in Patients with Acute Respiratory Failure</title>
+      <link>/publication/lar/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/lar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

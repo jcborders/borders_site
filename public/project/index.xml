@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Academic</title>
+    <title>Projects on James Borders</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Academic</description>
+    <description>Recent content in Projects on James Borders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
+      <title>Mealtime Interventions to Improve Malnutrition in Patients with Dementia: A Systematic Review</title>
       <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Malnutrition and weight loss are prevalent in persons with dementia and associated with poor functional outcomes. There is emerging evidence that mealtime interventions can improve behavioral and psychosocial symptoms, as well as nutritional outcomes. However, many prior reviews focus only on one aspect of mealtime interventions, such as challenging behaviors, exclude certain types of nutritional outcomes (e.g., blood assays), or have been overly inclusive by allowing for mixed cohorts of geriatric patients (with and without dementia).</description>
+    </item>
+    
+    <item>
+      <title>Use of the Penetration-Aspiration Scale in Dysphagia Research: A Historical Review</title>
+      <link>/project/pas/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/pas/</guid>
+      <description>The penetration-aspiration scale (PAS) is an 8-point scale used to characterize the depth of airway invasion during videofluoroscopy (Rosenbek et al., 1996). Though widely used and considered an industry-standard in the field of deglutition, statistical treatment of the PAS is not uniform across studies. In a recent perspectives article, Steele and Grace-Martin (2017) discussed common statistical errors and offered a categorical, physiology-based version of the PAS for use in research. To guide education and implementation of valid and standardized PAS analysis, there is a need to first understand how the PAS is currently used.</description>
     </item>
     
   </channel>

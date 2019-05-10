@@ -1,38 +1,246 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on James Borders</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on James Borders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GA Cushen</title>
-      <link>/authors/ga-cushen/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <title>A Grayev</title>
+      <link>/authors/a-grayev/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
       
-      <guid>/authors/ga-cushen/</guid>
+      <guid>/authors/a-grayev/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MS Nixon</title>
-      <link>/authors/ms-nixon/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>A Kaneoka</title>
+      <link>/authors/a-kaneoka/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/authors/ms-nixon/</guid>
+      <guid>/authors/a-kaneoka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rubio</title>
+      <link>/authors/a-rubio/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/a-rubio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AL Gibson</title>
+      <link>/authors/al-gibson/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/al-gibson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Brates</title>
+      <link>/authors/d-brates/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/d-brates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D Fink</title>
+      <link>/authors/d-fink/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/d-fink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E McNally</title>
+      <link>/authors/e-mcnally/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/e-mcnally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GP Krisciunas</title>
+      <link>/authors/gp-krisciunas/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/gp-krisciunas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H Warner</title>
+      <link>/authors/h-warner/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/h-warner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J McKeehan</title>
+      <link>/authors/j-mckeehan/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/j-mckeehan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JC Borders</title>
+      <link>/authors/jc-borders/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/jc-borders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JE Levitt</title>
+      <link>/authors/je-levitt/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/je-levitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Pisegna</title>
+      <link>/authors/jm-pisegna/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/jm-pisegna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM Siner</title>
+      <link>/authors/jm-siner/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/jm-siner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KL Stipancic</title>
+      <link>/authors/kl-stipancic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/kl-stipancic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Moss</title>
+      <link>/authors/m-moss/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/m-moss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Leonard</title>
+      <link>/authors/r-leonard/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/r-leonard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Scheel</title>
+      <link>/authors/r-scheel/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/r-scheel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Vojnik</title>
+      <link>/authors/r-vojnik/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/r-vojnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SD White</title>
+      <link>/authors/sd-white/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/sd-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SE Langmore</title>
+      <link>/authors/se-langmore/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/se-langmore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SG Taborda</title>
+      <link>/authors/sg-taborda/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/sg-taborda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SL Thibeault</title>
+      <link>/authors/sl-thibeault/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/sl-thibeault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WJ Coster</title>
+      <link>/authors/wj-coster/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/wj-coster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Arbel</title>
+      <link>/authors/y-arbel/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/y-arbel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>admin</title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/authors/admin/</guid>
       <description></description>

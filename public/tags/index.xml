@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Academic</title>
+    <title>Tags on James Borders</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Academic</description>
+    <description>Recent content in Tags on James Borders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
@@ -22,20 +22,128 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Aphasia</title>
+      <link>/tags/aphasia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/aphasia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Critical Illness</title>
+      <link>/tags/critical-illness/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/critical-illness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dysarthria</title>
+      <link>/tags/dysarthria/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/dysarthria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dysphagia</title>
+      <link>/tags/dysphagia/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/dysphagia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Related Potentials</title>
+      <link>/tags/event-related-potentials/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/event-related-potentials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FEES</title>
+      <link>/tags/fees/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/fees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback Processing</title>
+      <link>/tags/feedback-processing/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/feedback-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laryngeal Sensation</title>
+      <link>/tags/laryngeal-sensation/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/laryngeal-sensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharyngeal Residue</title>
+      <link>/tags/pharyngeal-residue/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/pharyngeal-residue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors</title>
+      <link>/tags/predictors/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/predictors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospective Replication</title>
+      <link>/tags/prospective-replication/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/prospective-replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychometrics</title>
+      <link>/tags/psychometrics/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/psychometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swallowing</title>
+      <link>/tags/swallowing/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/swallowing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trauma</title>
+      <link>/tags/trauma/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/tags/trauma/</guid>
       <description></description>
     </item>
     

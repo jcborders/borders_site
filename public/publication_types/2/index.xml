@@ -1,24 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Academic</title>
+    <title>2 on James Borders</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Academic</description>
+    <description>Recent content in 2 on James Borders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <title>Relationship Between Laryngeal Sensation, Length of Intubation, and Aspiration in Patients with Acute Respiratory Failure</title>
+      <link>/publication/lar/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/lar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prospective Investigation of Incidence and Co-occurrence of Dysphagia, Dysarthria, and Aphasia Following Ischemic Stroke</title>
+      <link>/publication/prospective/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/prospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability of Untrained and Experienced Raters on FEES: Rating Overall Residue is a Simple Task</title>
+      <link>/publication/reliability/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictors of Dysphagia in Critically Injured Patients with Neck Trauma</title>
+      <link>/publication/critical/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/critical/</guid>
+      <description></description>
     </item>
     
   </channel>

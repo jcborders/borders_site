@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Grayev on James Borders</title>
+    <link>/authors/a-grayev/</link>
+    <description>Recent content in A Grayev on James Borders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/authors/a-grayev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predictors of Dysphagia in Critically Injured Patients with Neck Trauma</title>
+      <link>/publication/critical/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/critical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
