@@ -93,4 +93,4 @@ user_groups = []
 
 +++
 
-James Borders is a speech pathologist specializing in swallowing and voice disorders. He currently works in both inpatient and outpatient roles at Boston Medical Center, and participates in research aimed at improving outcomes for patients with swallowing and voice disorders. 
+James Borders is a doctoral student in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Teacher's College under the mentorship of Michelle Troche. James is a clinically trained speech pathologist specializing in swallowing and cough dysfunction and rehabilitation.
