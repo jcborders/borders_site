@@ -45,7 +45,7 @@ tags = ["Laryngeal Sensation", "Critical Illness", "Swallowing"]
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/James_Borders/publication/330714666_Relationship_Between_Laryngeal_Sensation_Length_of_Intubation_and_Aspiration_in_Patients_with_Acute_Respiratory_Failure/links/5c570e7e92851c22a3a6617f/Relationship-Between-Laryngeal-Sensation-Length-of-Intubation-and-Aspiration-in-Patients-with-Acute-Respiratory-Failure.pdf"
+url_pdf = "LAR.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

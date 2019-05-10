@@ -53,7 +53,7 @@ projects = []
 slides = "]"
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/James_Borders/publication/330205804_Prospective_Investigation_of_Incidence_and_Co-occurrence_of_Dysphagia_Dysarthria_and_Aphasia_Following_Ischemic_Stroke/links/5c570edd92851c22a3a66186/Prospective-Investigation-of-Incidence-and-Co-occurrence-of-Dysphagia-Dysarthria-and-Aphasia-Following-Ischemic-Stroke.pdf"
+url_pdf = "prospective.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
