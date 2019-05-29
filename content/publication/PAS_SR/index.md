@@ -49,7 +49,7 @@ url_pdf = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Preprint & Data", url = #"https://osf.io/5m2r7/"}]
+#links = [{name = "Preprint & Data", url = #"https://osf.io/5m2r7/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
