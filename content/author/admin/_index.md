@@ -93,4 +93,4 @@ user_groups = []
 
 +++
 
-James Borders is a doctoral student in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Teacher's College at Columbia University. James is a clinically trained speech pathologist with research interests in swallowing and cough dysfunction and rehabilitation.
+James Borders is a doctoral student in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Columbia University. James is a clinically trained speech pathologist with research interests in swallowing and cough dysfunction and rehabilitation.
