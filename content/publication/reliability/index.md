@@ -45,7 +45,7 @@ tags = ["FEES", "Pharyngeal Residue", "Psychometrics"]
 projects = []
 
 # Links (optional).
-url_pdf = "`rely.pdf`"
+url_pdf = "files/rel.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
