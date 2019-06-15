@@ -45,7 +45,7 @@ tags = ["Laryngeal Sensation", "Critical Illness", "Swallowing"]
 projects = []
 
 # Links (optional).
-url_pdf = "LAR.pdf"
+url_pdf = "`LAR.pdf`"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
