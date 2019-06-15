@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{name = "Online Article", url = #"https://jslhr.pubs.asha.org/doi/abs/10.1044/2018_AJSLP-18-0136"}]
+links = [{name = "Online Article", url = "https://jslhr.pubs.asha.org/doi/abs/10.1044/2018_AJSLP-18-0136"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
