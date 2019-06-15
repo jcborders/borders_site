@@ -49,7 +49,7 @@ url_pdf = "`critical.pdf`"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Online Article", url = "https://www.sciencedirect.com/science/article/abs/pii/S0883944117315782"}]
+#links = [{name = "Online Article", url = #"https://www.sciencedirect.com/science/article/abs/pii/S0883944117315782"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
