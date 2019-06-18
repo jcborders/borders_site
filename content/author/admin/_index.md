@@ -23,10 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Normal and abnormal swallowing physiology",
-  "Laryngeal sensory deficits",
-  "Neuromuscular rehabilitation of cough and swallowing function",
-  "Open science"
+  "Oropharyngeal Dysphagia",
+  "Cough Dysfunction",
+  "Neuromuscular Rehabilitation",
+  "Open Science"
 ]
 
 # Organizational groups that you belong to (for People widget)
