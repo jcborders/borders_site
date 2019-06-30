@@ -16,7 +16,7 @@ baseurl = "https://jborders.netlify.com/"
 copyright = "&copy;"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-143020115-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
