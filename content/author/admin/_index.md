@@ -35,7 +35,7 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD, Communication Sciences and Disorders"
+  course = "PhD, Communication Sciences and Disorders, Anticipated 2023"
   institution = "Teacher's College at Columbia University"
   year = 2023
   
