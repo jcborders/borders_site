@@ -37,7 +37,7 @@ user_groups = []
 [[education.courses]]
   course = "PhD, Communication Sciences and Disorders, Anticipated 2023"
   institution = "Teacher's College at Columbia University"
-  year = 
+#  year = 
   
 [[education.courses]]
   course = "MS, Communication Sciences and Disorders"
