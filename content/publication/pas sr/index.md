@@ -45,7 +45,7 @@ tags = ["Penetration-Aspiration Scale", "Statistical Analysis", "Research Trends
 projects = []
 
 # Links (optional).
-url_pdf = "pas_sr.pdf"
+url_pdf = "`pas_sr.pdf`"
 url_dataset = "https://osf.io/5m2r7/"
 
 # Custom links (optional).
