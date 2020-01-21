@@ -27,7 +27,7 @@ abstract = "*Objective:* Sensation is an integral component of laryngeal control
 summary = "We examine the reliability of the touch method of laryngeal sensation testing."
 
 # Digital Object Identifier (DOI)
-doi = "10.1177/000348-941-99011-45"
+doi = "10.1177/0003489419901145"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -45,7 +45,7 @@ tags = ["Laryngeal sensation", "Laryngeal adductor reflex", "Touch method", "Rel
 projects = []
 
 # Links (optional).
-url_pdf = "`lar_reliability.pdf`"
+url_pdf = "`larinteellarf`"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
