@@ -27,7 +27,7 @@ abstract = "*Objective:* Sensation is an integral component of laryngeal control
 summary = "We examine the reliability of the touch method of laryngeal sensation testing."
 
 # Digital Object Identifier (DOI)
-#do = "10.1177/0003489419901145"
+doi = "10.1177/000348-941-99011-45"
 
 # Is this a featured publication? (true/false)
 featured = false
