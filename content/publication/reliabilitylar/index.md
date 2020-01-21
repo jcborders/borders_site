@@ -45,7 +45,7 @@ tags = ["Laryngeal sensation", "Laryngeal adductor reflex", "Touch method", "Rel
 projects = []
 
 # Links (optional).
-url_pdf = "`larfiles/relf`"
+url_pdf = "`larfiles/interf`"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
