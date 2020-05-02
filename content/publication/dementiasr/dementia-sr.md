@@ -27,11 +27,6 @@ abstract = "*Background:* Malnutrition and weight loss are highly prevalent in p
 # Summary. An optional shortened abstract.
 summary = "This review clarifies the state of evidence for interventions to improve malnutrition in dementia for clinicians, researchers, and caregivers."
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Dementia"", "Malnutrition", "Mealtime", "Nutrition", "Treatment"]
-categories = []
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
