@@ -75,11 +75,6 @@ user_groups = []
   link = "https://www.researchgate.net/profile/James_Borders"
   
 [[social]]
-  icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0002-0291-4266"
-  
-[[social]]
   icon = "osf"
   icon_pack = "ai"
   link = "https://osf.io/n84bd"
