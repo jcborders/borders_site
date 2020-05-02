@@ -4,7 +4,7 @@ date = 2020-05-02T10:04:47-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**JC Borders**", "S Blanke", "S Johnson", "A Gilmore-Bykoyskyi", "N Rogus-Pulia"]
+authors = ["**JC Borders**", "S Blanke", "S Johnson", "A Gilmore-Bykovskyi", "N Rogus-Pulia"]
 
 # Publication type.
 # Legend:
