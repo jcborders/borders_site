@@ -31,7 +31,7 @@ summary = "This review examines evidence for interventions to improve malnutriti
 doi = "10.1097/WAD.0000000000000387"
 
 # Links (optional).
-url_pdf = "`publication/dementiasr/dementiasr.pdf`"
+url_pdf = "`pdf/dementiasr.pdf`"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
