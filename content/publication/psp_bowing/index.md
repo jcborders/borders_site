@@ -1,9 +1,9 @@
 +++
-title = "Psp_bowing"
+title = "The Role of Vocal Fold Bowing on Cough and Swallowing Dysfunction in Progressive Supranuclear Palsy"
 date = 2020-07-24T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["N Enver", "*JC Borders*", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = []
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "*Laryngoscope*"
 publication_short = ""
 
 # Abstract.
