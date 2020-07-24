@@ -3,7 +3,7 @@ title = "The Role of Vocal Fold Bowing on Cough and Swallowing Dysfunction in Pr
 date = 2020-07-24T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["N Enver", "*JC Borders*", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
+authors = ["N Enver", "**JC Borders**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
 
 # Publication type.
 # Legend:
@@ -25,10 +25,10 @@ abstract = "*Objectives*: Progressive supranuclear palsy (PSP) is a neurodegener
 influence PAS (**P** > .05). <br><br> *Conclusions*: Findings from this study suggest that vocal fold bowing is highly prevalent in PSP and associated with reduced reflex and voluntary cough effectiveness. These findings provide insight into the pathophysiology of compromised airway protection in this patient population. Future studies should examine vocal fold atrophy as a treatment target for behavioral and medical intervention in PSP."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Vocal fold bowing is highly prevalent in PSP and associated with reduced cough effectiveness"
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1002/lary.28885"
 
 # Is this a featured publication? (true/false)
 featured = false
