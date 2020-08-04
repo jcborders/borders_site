@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Oropharyngeal Dysphagia",
   "Cough Dysfunction",
-  "Neuromuscular Rehabilitation",
+  "Motor Control/Learning",
   "Open Science"
 ]
 
