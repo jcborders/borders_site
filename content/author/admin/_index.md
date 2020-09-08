@@ -23,10 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Oropharyngeal Dysphagia",
-  "Cough Dysfunction",
+  "Airway Protection (Cough & Swallowing)"
   "Motor Control/Learning",
-  "Open Science"
+  "Meta-Science"
 ]
 
 # Organizational groups that you belong to (for People widget)
