@@ -16,14 +16,14 @@ role = "PhD Student"
 organizations = [ { name = "Columbia University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "James Borders is a doctoral student in the Laboratory for the Study of Upper Airway Dysfunction at Columbia University. James is a clinically trained speech pathologist with research interests in the rehabilitation of swallowing and cough dysfunction."
+bio = "James Borders is a doctoral student in the Laboratory for the Study of Upper Airway Dysfunction at Columbia University. James is a clinically trained speech pathologist with research interests in the rehabilitation of airway protection, specifically cough and swallowing dysfunction."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Airway Protection (Cough & Swallowing)",
+  "Airway Protection",
   "Motor Control/Learning",
   "Meta-Science"
 ]
