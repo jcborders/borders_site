@@ -1,5 +1,5 @@
 +++
-title = "Variability of voluntary cough airflow in healthy adults and Parkinson’s disease"
+title = "Variability of Voluntary Cough Airflow in Healthy Adults and Parkinson’s disease"
 date = 2020-09-13T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
