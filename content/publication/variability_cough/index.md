@@ -27,7 +27,7 @@ abstract = "*Background*: Cough is an important airway protective behavior respo
 summary = "Variability of cough airflow increases due to healthy aging and Parkinson’s disease."
 
 # Digital Object Identifier (DOI)
-doi = "10.1002/lary.28885"
+doi = "10.1007/s00455-020-10190-3"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "`cough_var.pdf`"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
