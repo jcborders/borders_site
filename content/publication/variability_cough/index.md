@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "`cough_var.pdf`"
+url_pdf = "files/cough_var.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
