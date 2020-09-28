@@ -3,7 +3,7 @@ title = "The Role of Vocal Fold Bowing on Cough and Swallowing Dysfunction in Pr
 date = 2020-07-24T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [N Enver, "**JC Borders**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
+authors = ["N Enver", "**JC Borders**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
 
 # Publication type.
 # Legend:
