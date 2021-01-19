@@ -3,7 +3,7 @@ title = "Immediate Effects of Sensorimotor Training in Airway Protection (smTAP)
 date = 2021-01-05T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**JC Borders**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
+authors = ["**JC Border**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
 
 # Publication type.
 # Legend:
