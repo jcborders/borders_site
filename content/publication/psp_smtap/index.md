@@ -3,7 +3,7 @@ title = "Immediate Effects of Sensorimotor Training in Airway Protection (smTAP)
 date = 2021-01-05T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**JC Border**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
+authors = ["**JC Borders**", "JA Curtis", "JS Sevitz", "N Vanegas-Arroyave", "MS Troche"]
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ abstract = "*Background*: Progressive supranuclear palsy (PSP) is a neurodegener
 summary = "smTAP is a feasible and effective approach to rehabilitate cough in PSP."
 
 # Digital Object Identifier (DOI)
-doi = "10.1007/s00455-020-10190-3"
+doi = "10.1007/s00455-021-10251-1"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/psp_smtap.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
