@@ -27,7 +27,7 @@ abstract = "*Purpose*: The COVID-19 pandemic has drastically increased the use o
 summary = "Objective and subjective measures from the clinical swallowing evaluation can be reliably measured via telehealth"
 
 # Digital Object Identifier (DOI)
-doi = "10.1007/s00455-020-10190-3"
+doi = "10.1044/2020_AJSLP-20-00234"
 
 # Is this a featured publication? (true/false)
 featured = false
