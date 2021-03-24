@@ -18,13 +18,13 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Dysphagia*"
-publication_short = "VASES is a standardized FEES rating method used to enhance subjective swallowing analyses."
+publication_short = ""
 
 # Abstract.
 abstract = "*Purpose*: The primary aim of this study was to describe the development of the Visual Analysis of Swallowing Efficiency and Safety (VASES) – a standardized method to rate pharyngeal residue, penetration, and aspiration during FEES. As a secondary aim, we explored the feasibility of training novices to interpret FEES using VASES.    <br><br> *Method*: Literature review and consensus panel discussions were used to develop standardized rules for VASES. A training protocol was developed and criterion ratings were established. Twenty-five novice raters completed VASES training and pre-/post-training assessments. Statistical analyses were used to examine pre- to post-training differences in the accuracy, reliability, and time to rate each video clip using VASES.    <br><br> *Results*: Four sets of VASES rules were developed, including ‘what’, ‘where’, ‘when’, and ‘how’ to rate FEES. Large, significant post-training improvements in rating accuracy were observed across all seven VASES outcome measures (Cohen’s d range: 0.74–1.59). Additionally, inter-rater reliability increased for four of the seven outcome measures, and the amount of time to rate each video clip decreased from 2.6 minutes pre-training to 1.5 minutes post-training.     <br><br> *Conclusions*: VASES is a standardized FEES rating method used to enhance the subjective analysis of pharyngeal residue, penetration, and aspiration. It can be feasibly taught to novice raters with a high level of success and may be an effective method to analyze swallowing safety and efficiency in clinical and research practices. Future research is needed to test the validity of VASES by examining its relationship with other validated FEES rating scales."
 
 # Summary. An optional shortened abstract.
-summary = "."
+summary = "VASES is a standardized FEES rating method used to enhance subjective swallowing analyses."
 
 # Digital Object Identifier (DOI)
 doi = ""
