@@ -1,6 +1,6 @@
 +++
 title = "Visual Analysis of Swallowing Efficiency and Safety (VASES): A Standardized Approach to Rating Pharyngeal Residue, Penetration, and Aspiration During FEES"
-date = 2021-03-24T17:02:25-04:00
+date = 2021-03-23T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["JA Curtis", "**JC Borders**", "SE Perry","ZN Seikaly", "AE Dakin","MS Troche"]
