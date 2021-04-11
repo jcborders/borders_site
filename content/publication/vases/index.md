@@ -27,7 +27,7 @@ abstract = "*Purpose*: The primary aim of this study was to describe the develop
 summary = "VASES is a standardized FEES rating method used to enhance subjective swallowing analyses."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/s00455-021-10293-5"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/vases.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
