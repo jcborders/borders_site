@@ -12,6 +12,11 @@
   name = "Publications"
   url = "#publications"
   weight = 20
+  
+[[main]]
+  name = "Talks"
+  url = "#Talks"
+  weight = 20  
 
 [[main]]
     name = "Curriculum Vitae"
