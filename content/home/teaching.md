@@ -24,4 +24,5 @@ I have also guest lectured in several graduate-level courses:
 - Dysphagia (University of Cincinnati)
 - Dysphagia Assessment and Intervention (Teachers College, Columbia University)
 - Swallowing Disorders (University of Wisconsin-Madison)
+
 +++
