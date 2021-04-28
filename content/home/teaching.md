@@ -13,16 +13,14 @@ weight = 40
 
 +++
 
-### *Course Instructor*
+### **Course Instructor**
 To date, I have taught one course to MS students of Speech-Language Pathology:
 
 - Evaluation of Research in Speech-Language Pathology (Teachers College, Columbia University)
 
-### *Guest Lecturer*
+### **Guest Lecturer**
 I have also guest lectured in several graduate-level courses:
 
 - Dysphagia (University of Cincinnati)
 - Dysphagia Assessment and Intervention (Teachers College, Columbia University)
 - Swallowing Disorders (University of Wisconsin-Madison)
-
-+++
