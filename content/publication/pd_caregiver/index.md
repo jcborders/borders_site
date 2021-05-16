@@ -21,13 +21,13 @@ publication = "*Dysphagia*"
 publication_short = ""
 
 # Abstract.
-abstract = ""
+abstract = "Caring for a family member with dysphagia can negatively impact caregiver wellbeing, although little is known about how dysphagia severity or specific symptoms influence this. The purpose of this study was to examine how objective measures of dysphagia in people with Parkinson’s disease influenced their caregivers’ quality of life. Fifty caregivers (mainly spouses) of people with Parkinson’s disease completed a caregiver quality of life survey. Results were compared to medical chart reviews, interviews, and instrumental evaluations of swallowing from the care recipients. Outcomes included caregiver quality of life score, ratings of airway invasion and pharyngeal residue, and Parkinson’s disease duration. Descriptive and regression analyses were completed. All caregivers reported reduced quality of life, with 28% having severely disturbed adaptation. Every care recipient with Parkinson’s disease demonstrated airway invasion and/or pharyngeal residue. Together, the combination of older care recipient age and longer disease duration was associated with poorer caregiver quality of life [adj. R2 = 0.10–0.12, *p* = 0.03–0.4]. Neither airway invasion nor pharyngeal residue was related to caregiver quality of life (*p* > 0.05). Findings confirmed that caregivers of people with Parkinson’s disease and dysphagia experience reduced quality of life; however, current methods of assessing caregivers’ quality of life may not adequately account for dysphagia-specific burden. Results highlight the urgent need for the development of dysphagia-specific assessments of caregivers’ quality of life to facilitate identification of high-risk caregivers and aid the development of support systems to improve health outcomes for caregivers and care recipients"
 
 # Summary. An optional shortened abstract.
 summary = "Caregivers of people with Parkinson’s disease and dysphagia experience reduced quality of life."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/s00455-021-10299-z"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/pd_qol.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
