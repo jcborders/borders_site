@@ -86,5 +86,4 @@ user_groups = []
 #   link = "files/CV.pdf"
 
 +++
-
-I am a doctoral student in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Columbia University. My research interests include the rehabilitation of swallowing and cough dysfunction. As a clinically trained speech pathologist, I am also interested in the translation of research into clinical practice.
+I'm a speech pathologist and doctoral student in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Columbia University. My research focuses on the rehabilitation of impairments in airway protection, namely cough (dystussia) and swallowing (dysphagia) dysfunction, to improve health outcomes and quality of life. I also have interests in meta-science, statistics, and how these practices affect the transparency, rigor, and replicability of science. I have worked clinically in inpatient and outpatient settings, specializing in the assessment and treatment of dysphagia across a variety of patient populations, including neurological, oncological, gastrointestinal, and respiratory disorders.
