@@ -6,7 +6,7 @@ widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Publications"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -14,7 +14,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 1
   
   # Choose how many pages you would like to offset by
   offset = 0
