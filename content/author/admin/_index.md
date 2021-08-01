@@ -24,7 +24,6 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Airway Protection",
-  "Sensorimotor Control",
   "Motor Learning",
   "Meta-Science"
 ]
