@@ -3,28 +3,28 @@ title = "A Tutorial on FEES Interpretation with VASES"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2021-08-25T17:00:00
-date_end = 2021-08-25T19:00:00
+date = 2025-08-25T17:00:00
+date_end = 2025-08-25T19:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2021-08-25T00:00:00
+publishDate = 2025-08-26T19:01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = "James A Curtis", "James C Borders"
+authors = "James A. Curtis", "James C. Borders"
 
 # Location of event.
 location = ""
 
 # Name of event and optional event URL.
-# event = "Academic Theme Conference"
-event_url = "https://https://www.youtube.com/watch?v=AxLvjdH2SSs"
+event = ""
+event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research."
+abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research. This 90 minute webinar provides a brief introduction."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -50,11 +50,11 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["internal-project"]
 
 # Links (optional).
 url_pdf = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=AxLvjdH2SSs"
 url_code = ""
 
 # Demo talk page uses LaTeX math.
@@ -64,10 +64,11 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-Supplemental material and a free, self-archived version of the manuscript is available on the **Open Science Framework** at the following link: https://osf.io/z6m8s/
+
+Supplemental training material and a free, self-archived version of the published manuscript are freely available on the **Open Science Framework** at the following link: https://osf.io/z6m8s/
