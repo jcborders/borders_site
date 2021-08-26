@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = "A Tutorial on FEES Interpretation with VASES"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +21,7 @@ event = "Academic Theme Conference"
 event_url = "https://example.org"
 
 # Abstract. What's your talk about?
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research. This 90 minute webinar provides a brief introduction."
 
 # Summary. An optional shortened abstract.
 summary = "An example talk using Academic's Markdown slides feature."
