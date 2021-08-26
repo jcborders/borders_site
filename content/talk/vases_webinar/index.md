@@ -14,14 +14,14 @@ publishDate = 2017-01-01T00:00:00
 authors = []
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Online Webinar"
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+event = ""
+event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research. This 90 minute webinar provides a brief introduction."
+abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES. This 90 minute webinar provides a brief introduction for its use in clinical practice and research."
 
 # Summary. An optional shortened abstract.
 summary = "We provide a brief introduction to Visual Analysis of Swallowing Efficiency and Safety (VASES), a standardized approach to rating FEES."
