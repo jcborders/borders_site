@@ -3,9 +3,9 @@ title = "A Tutorial on FEES Interpretation with VASES"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date = 2030-06-01T13:00:00
-#date_end = 2030-06-01T15:00:00
-#all_day = false
+date = 2021-08-25T17:00:00
+date_end = 2021-08-25T19:00:00
+all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2021-08-25T00:00:00
@@ -14,7 +14,7 @@ publishDate = 2021-08-25T00:00:00
 authors = "James A Curtis", "James C Borders"
 
 # Location of event.
-# location = "London, United Kingdom"
+location = ""
 
 # Name of event and optional event URL.
 # event = "Academic Theme Conference"
@@ -24,7 +24,7 @@ event_url = "https://https://www.youtube.com/watch?v=AxLvjdH2SSs"
 abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research."
 
 # Summary. An optional shortened abstract.
-#summary = "An example talk using Academic's Markdown slides feature."
+summary = ""
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -39,10 +39,10 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides = "example"
+slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-#url_slides = ""
+url_slides = ""
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
