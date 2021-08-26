@@ -3,22 +3,22 @@ title = "A Training Webinar for FEES Interpretation with VASES"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2030-06-01T13:00:00
-date_end = 2030-06-01T15:00:00
-all_day = false
+#date = 2030-06-01T13:00:00
+#date_end = 2030-06-01T15:00:00
+#all_day = false
 
 # Schedule page publish date (NOT talk date).
 publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = "James A. Curtis", "James C. Borders"
 
 # Location of event.
-location = "London, United Kingdom"
+# location = "London, United Kingdom"
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+# event = "Academic Theme Conference"
+event_url = "https://https://drive.google.com/file/d/1BXC3tweTKNTkv4GOJrVHh7m3sn-Zh1Va/view?usp=sharing"
 
 # Abstract. What's your talk about?
 abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -54,7 +54,7 @@ projects = ["internal-project"]
 
 # Links (optional).
 url_pdf = ""
-url_video = ""
+url_video = "https://drive.google.com/file/d/1BXC3tweTKNTkv4GOJrVHh7m3sn-Zh1Va/view?usp=sharing"
 url_code = ""
 
 # Demo talk page uses LaTeX math.
