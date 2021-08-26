@@ -1,5 +1,5 @@
 +++
-title = "VASES"
+title = "A Tutorial on FEES Interpretation with VASES"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -8,23 +8,23 @@ title = "VASES"
 #all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2017-01-01T00:00:00
+publishDate = 2021-08-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = "James A Curtis", "James C Borders"
 
 # Location of event.
-location = "London, United Kingdom"
+# location = "London, United Kingdom"
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
-event_url = "https://example.org"
+# event = "Academic Theme Conference"
+event_url = "https://https://www.youtube.com/watch?v=AxLvjdH2SSs"
 
 # Abstract. What's your talk about?
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research."
 
 # Summary. An optional shortened abstract.
-summary = "An example talk using Academic's Markdown slides feature."
+#summary = "An example talk using Academic's Markdown slides feature."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -39,10 +39,10 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example"
+#slides = "example"
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+#url_slides = ""
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -50,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Links (optional).
 url_pdf = ""
@@ -70,15 +70,4 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+Supplemental material and free, self-archived version of the manuscript is available on the **Open Science Framework** at the following link: https://osf.io/z6m8s/
