@@ -24,7 +24,7 @@ event_url = "https://example.org"
 abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research. This 90 minute webinar provides a brief introduction."
 
 # Summary. An optional shortened abstract.
-summary = "An example talk using Academic's Markdown slides feature."
+summary = "We provide a brief introduction to Visual Analysis of Swallowing Efficiency and Safety (VASES), a standardized approach to rating FEES."
 
 # Is this a featured talk? (true/false)
 featured = false
