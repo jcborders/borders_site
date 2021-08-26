@@ -64,10 +64,10 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-Supplemental material and free, self-archived version of the manuscript is available on the **Open Science Framework** at the following link: https://osf.io/z6m8s/
+Supplemental material and a free, self-archived version of the manuscript is available on the **Open Science Framework** at the following link: https://osf.io/z6m8s/
