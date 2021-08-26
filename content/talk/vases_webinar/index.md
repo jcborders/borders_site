@@ -14,10 +14,10 @@ publishDate = 2017-01-01T00:00:00
 authors = []
 
 # Location of event.
-location = "Online Webinar"
+location = ""
 
 # Name of event and optional event URL.
-event = ""
+event = "Online Webinar"
 event_url = ""
 
 # Abstract. What's your talk about?
@@ -54,7 +54,7 @@ projects = ["internal-project"]
 
 # Links (optional).
 url_pdf = ""
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=AxLvjdH2SSs"
 url_code = ""
 
 # Demo talk page uses LaTeX math.
