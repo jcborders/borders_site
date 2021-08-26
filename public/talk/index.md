@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = "A Training Webinar for FEES Interpretation with VASES"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
