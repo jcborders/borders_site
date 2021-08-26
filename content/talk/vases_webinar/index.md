@@ -1,30 +1,30 @@
 +++
-title = "A Tutorial on FEES Interpretation with VASES"
+title = "Example Talk"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2025-08-25T17:00:00
-date_end = 2025-08-25T19:00:00
+date = 2030-06-01T13:00:00
+date_end = 2030-06-01T15:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2025-08-26T19:01:00
+publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = "James A. Curtis", "James C. Borders"
+authors = []
 
 # Location of event.
-location = ""
+location = "London, United Kingdom"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "Academic Theme Conference"
+event_url = "https://example.org"
 
 # Abstract. What's your talk about?
-abstract = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research. This 90 minute webinar provides a brief introduction."
+abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Summary. An optional shortened abstract.
-summary = "Visual Analysis of Swallowing Efficiency and Safety (VASES) is a standardized approach to rating FEES in clinical practice and research."
+summary = "An example talk using Academic's Markdown slides feature."
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -39,7 +39,7 @@ tags = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "example"
 
 # Optional filename of your slides within your talk folder or a URL.
 url_slides = ""
@@ -54,7 +54,7 @@ projects = ["internal-project"]
 
 # Links (optional).
 url_pdf = ""
-url_video = "https://www.youtube.com/watch?v=AxLvjdH2SSs"
+url_video = ""
 url_code = ""
 
 # Demo talk page uses LaTeX math.
@@ -71,4 +71,14 @@ math = true
   focal_point = "Right"
 +++
 
-Supplemental training material and a free, self-archived version of the published manuscript are freely available on the **Open Science Framework** at the following link: https://osf.io/z6m8s/
+{{% alert note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /alert %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
