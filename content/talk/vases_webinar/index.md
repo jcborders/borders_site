@@ -4,11 +4,11 @@ title = "A Tutorial on FEES Interpretation with VASES"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2021-08-25T17:00:00
-date_end = 2021-08-25T19:00:00
+#date_end = 2030-06-01T15:00:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2025-08-01T19:01:00
+publishDate = 2017-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
