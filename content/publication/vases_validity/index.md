@@ -27,7 +27,7 @@ abstract = "*Purpose*: The primary aim of this study was to examine the criterio
 summary = "VASES is a valid approach to rate and interpret functional swallowing outcomes on FEES."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1044/2021_AJSLP-21-00116"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/vases_validity.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
