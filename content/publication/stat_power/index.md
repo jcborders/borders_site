@@ -1,6 +1,6 @@
 +++
 title = "Statistical Power and Swallowing Rehabilitation Research: Current Landscape and Next Steps"
-date = 2022-13-22T17:02:25-04:00
+date = 2022-02-13T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**JC Borders**", "AA Grande", "MS Troche"]
