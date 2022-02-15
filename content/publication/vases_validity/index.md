@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "VASES Training Module", url = "https://osf.io/9vk4r/"}]
+# links = [{name = "Self-Archived PDF", url = "files/vases_validity_postprint.pdf"}, {name = "VASES Training Module", url = "https://osf.io/9vk4r/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
