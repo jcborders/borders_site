@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "files/vases.pdf"
-url_postprint = "files/vases_postprint.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "VASES Training Module", url = "https://osf.io/9vk4r/"}]
+links = [{name = "VASES Training Module", url = "https://osf.io/9vk4r/"}, {name = "Self-Archived PDF", url = "files/vases_postprint.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
