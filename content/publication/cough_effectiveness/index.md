@@ -27,7 +27,7 @@ abstract = "*Purpose*: Voluntary cough dysfunction is highly prevalent across mu
 summary = "Voluntary cough airflow is associated with cough effectiveness to expel aspiration."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1044/2021_JSLHR-21-00308"
 
 # Is this a featured publication? (true/false)
 featured = false
