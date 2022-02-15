@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "files/vases.pdf"
-url_preprint = "files/vases_postprint.pdf"
+url_postprint = "files/vases_postprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
