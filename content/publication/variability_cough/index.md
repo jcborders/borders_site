@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Self-Archived PDF", url = "files/cough_variability_postprint.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
