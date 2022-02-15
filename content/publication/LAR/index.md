@@ -49,7 +49,7 @@ url_pdf = "`LAR.pdf`"
 
 links:
 - name: Free PMC Publication
-  url: nihms-1524991.pdf
+  url: "`nihms-1524991.pdf"`
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
