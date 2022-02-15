@@ -49,7 +49,7 @@ url_pdf = "`LAR.pdf`"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Free PMC Article", url = #"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660370/"}]
+links = [{name = "Free PMC Article", url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660370/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
