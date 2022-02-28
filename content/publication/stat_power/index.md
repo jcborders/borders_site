@@ -27,7 +27,7 @@ abstract = "*Background*: Despite rapid growth in the number of treatments to re
 summary = "Treatments were powered to detect larger effect sizes and not smaller, potentially clinically meaningful effects."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/s00455-022-10428-2"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/power_rehab.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://osf.io/65atf/"
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Power Analysis Tutorial", url = "https://osf.io/8sc5e/"}]
+links = [{name = "Power Analysis Tutorial", url = "https://osf.io/8sc5e/"}, {name = "Self-Archived PDF", url = "files/power_rehab_selfarchived.pdf"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
