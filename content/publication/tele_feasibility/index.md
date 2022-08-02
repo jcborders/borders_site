@@ -1,9 +1,9 @@
 +++
 title = "Rehabilitation of Airway Protection in Individuals with Movement Disorders: A Telehealth Feasibility Study"
-date = 2022-06-27T17:02:25-04:00
+date = 2022-07-27T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JS Sevitz", "**Borders, J. C.**", "AE Dakin", "RN Alcalay", "S Kuo", & "MS Troche"]
+authors = ["JS Sevitz", "**Borders, J. C.**", "AE Dakin", "RN Alcalay", "S Kuo", "MS Troche"]
 
 # Publication type.
 # Legend:
