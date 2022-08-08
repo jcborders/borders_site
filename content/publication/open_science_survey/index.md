@@ -1,6 +1,6 @@
 +++
 title = "Open science practices in communication sciences and disorders: A survey"
-date = 2022-08-7T17:02:25-04:00
+date = 2022-07-28T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M El Amin", "**Borders, J. C.**", "HL Long", "MA Keller", "E Kearney"]
