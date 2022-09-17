@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://osf.io/jwba3/"
 url_code = ""
 url_dataset = ""
 url_project = ""

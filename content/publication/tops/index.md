@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 # url_pdf = "files/power_rehab.pdf"
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/dy5zs/"
 url_code = ""
 url_dataset = ""
 url_project = ""
