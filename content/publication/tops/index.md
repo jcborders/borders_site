@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 # url_pdf = "files/power_rehab.pdf"
-url_preprint = "https://psyarxiv.com/dy5zs/"
+url_preprint = ""
 url_code = ""
 url_dataset = "https://osf.io/f3qku/"
 url_project = ""
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Power Analysis Tutorial", url = "https://osf.io/8sc5e/"}, {name = "Self-Archived PDF", url = "files/power_rehab_selfarchived.pdf"}]
+links = [{name = "Self-Archived PDF", url = "https://psyarxiv.com/dy5zs/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
