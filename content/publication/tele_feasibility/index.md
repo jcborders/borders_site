@@ -3,7 +3,7 @@ title = "Rehabilitation of Airway Protection in Individuals with Movement Disord
 date = 2022-07-27T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JS Sevitz", "**Borders, J. C.**", "AE Dakin", "RN Alcalay", "S Kuo", "MS Troche"]
+authors = ["JS Sevitz", "**JC Borders**", "AE Dakin", "RN Alcalay", "S Kuo", "MS Troche"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Open Science Practices in Communication Sciences and Disorders: A Surve
 date = 2022-07-28T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M El Amin", "**Borders, J. C.**", "HL Long", "MA Keller", "E Kearney"]
+authors = ["M El Amin", "**JC Borders**", "HL Long", "MA Keller", "E Kearney"]
 
 # Publication type.
 # Legend:
