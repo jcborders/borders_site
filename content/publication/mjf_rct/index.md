@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-# url_pdf = "files/power_rehab.pdf"
+url_pdf = "files/pd_cough_rct.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
