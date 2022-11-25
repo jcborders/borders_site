@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/csd_open_science_survey.pdf"
 url_preprint = "https://osf.io/jwba3/"
 url_code = ""
 url_dataset = "https://osf.io/cm45g/"
