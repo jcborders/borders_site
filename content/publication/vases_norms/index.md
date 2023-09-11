@@ -1,6 +1,6 @@
 +++
 title = "Normative Reference Values for FEES and VASES: A Prospective, Observational Study of Non-Dysphagic, Community-Dwelling Adults"
-date = 2023-7-18T17:02:25-04:00
+date = 2023-07-18T17:02:25-04:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["JA Curtis", "**JC Borders**", "AE Dakin", "MS Troche"]
