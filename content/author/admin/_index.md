@@ -13,7 +13,7 @@ role = "Postdoctoral Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Columbia University", url = "" } ]
+organizations = [ { name = "Teachers College", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "James Borders is a postdoctoral research fellow in the Laboratory for the Study of Upper Airway Dysfunction at Columbia University. James is a clinically trained speech pathologist with research interests in the rehabilitation of airway protection, specifically cough and swallowing dysfunction."
