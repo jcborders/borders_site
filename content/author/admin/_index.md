@@ -44,7 +44,7 @@ user_groups = []
   year = 2016
 
 [[education.courses]]
-  course = "BA in Psychology"
+  course = "BA, Psychology"
   institution = "College of the Holy Cross"
   year = 2014
 
