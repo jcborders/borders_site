@@ -16,7 +16,7 @@ role = "PhD Student"
 organizations = [ { name = "Columbia University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "James Borders is a doctoral student in the Laboratory for the Study of Upper Airway Dysfunction at Columbia University. James is a clinically trained speech pathologist with research interests in the rehabilitation of airway protection, specifically cough and swallowing dysfunction."
+bio = "James Borders is a postdoctoral research fellow in the Laboratory for the Study of Upper Airway Dysfunction at Columbia University. James is a clinically trained speech pathologist with research interests in the rehabilitation of airway protection, specifically cough and swallowing dysfunction."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -34,9 +34,9 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD, Communication Sciences and Disorders, Anticipated 2023"
+  course = "PhD, Communication Sciences and Disorders"
   institution = "Teacher's College at Columbia University"
-#  year = 
+  year = 2023
   
 [[education.courses]]
   course = "MS, Communication Sciences and Disorders"
@@ -86,4 +86,4 @@ user_groups = []
 #   link = "files/CV.pdf"
 
 +++
-I'm a speech pathologist and doctoral student in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Columbia University. My research focuses on the rehabilitation of impairments in airway protection, namely cough (dystussia) and swallowing (dysphagia) dysfunction, to improve health outcomes and quality of life. I also have interests in meta-science, statistics, and how these practices affect the transparency, rigor, and replicability of science. Clinically, I have worked in inpatient and outpatient settings, specializing in the assessment and treatment of dysphagia across a variety of patient populations, including neurological, oncological, gastrointestinal, and respiratory disorders.
+I'm a postdoctoral research fellow in the [Laboratory for the Study of Upper Airway Dysfunction] (https://www.tc.columbia.edu/uadlab/) at Columbia University. My research is dedicated to improving quality of life and health outcomes in neurodegenerative disease through the rehabilitation of impairments in airway protection, namely cough (dystussia) and swallowing (dysphagia) dysfunction. I also have interests in meta-science, statistics, and how these practices affect the transparency, rigor, and replicability of science.
